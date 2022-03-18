@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "104014249958",
+    "project_id": "ethar-app-cfd36",
+    "storage_bucket": "ethar-app-cfd36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104014249958:android:2f7fba603a7d4d9000e027",
+        "android_client_info": {
+          "package_name": "com.example.etharapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104014249958-3qt0fu2bar37la0tcj2p7kcd3g5dl762.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.etharapp",
+            "certificate_hash": "4d57af1a5738f321d020006cd5b773c762598567"
+          }
+        },
+        {
+          "client_id": "104014249958-sfjt2n2dobc709381faf5uol0o7n0lop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJPswlt4APd_CWd80EO8GPAjFz4ExExvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104014249958-sfjt2n2dobc709381faf5uol0o7n0lop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
